@@ -17,7 +17,7 @@ Mnemox builds open protocols and tools that give AI agents persistent memory.
 | Project | Description | Status |
 |---------|-------------|--------|
 | [TradeMemory Protocol](https://github.com/mnemox-ai/tradememory-protocol) | 3-layer memory system for AI trading agents via MCP | `v0.2.0` · 100+ tests |
-| [Idea-Reality MCP](https://github.com/mnemox-ai/idea-reality-mcp) | AI project reality-check MCP server (5 sources · 150+ Chinese terms) | `v0.3.4` · 120 tests |
+| [Idea-Reality MCP](https://github.com/mnemox-ai/idea-reality-mcp) | Pre-build reality check — searches 5 real databases before you build | `v0.4.0` · 138 tests |
 
 ---
 
