@@ -16,8 +16,9 @@ Mnemox builds open protocols and tools that give AI agents persistent memory.
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [TradeMemory Protocol](https://github.com/mnemox-ai/tradememory-protocol) | Outcome-weighted memory for AI trading agents via MCP. 5 cognitive memory types, 10 tools. | `v0.4.0` · 399 tests |
-| [Idea-Reality MCP](https://github.com/mnemox-ai/idea-reality-mcp) | Pre-build reality check — searches 5 real databases before you build | `v0.4.0` · 138 tests |
+| [TradeMemory Protocol](https://github.com/mnemox-ai/tradememory-protocol) | Outcome-weighted memory for AI trading agents via MCP. 5 cognitive memory types, 10 tools. | `v0.4.0` · 503 tests |
+| [Idea-Reality MCP](https://github.com/mnemox-ai/idea-reality-mcp) | Pre-build reality check — searches 5 real databases before you build | `v0.5.0` · 247 tests |
+| [AgentRelay](https://github.com/mnemox-ai/AgentRelay) | Verifiable microtask protocol — agents claim tasks, platform validates output. REST + WebSocket + MCP. | `v0.6.0` · 394 tests |
 
 ---
 
