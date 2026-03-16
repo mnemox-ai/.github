@@ -1,40 +1,54 @@
 <div align="center">
 
-# Mnemox
+# Mnemox AI
 
-**AI 記憶基礎設施 · Memory Infrastructure for AI**
-
-我們相信 AI 不該每次對話都從零開始。<br>
-Mnemox 打造讓 AI agent 擁有持久記憶的開放協議與工具。
-
-We believe AI shouldn't start from zero every conversation.<br>
-Mnemox builds open protocols and tools that give AI agents persistent memory.
+**We build AI memory infrastructure.**
 
 ---
 
-### 🔬 Projects
+<table>
+<tr>
+<td align="center" width="33%">
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [TradeMemory Protocol](https://github.com/mnemox-ai/tradememory-protocol) | Outcome-weighted memory for AI trading agents via MCP. 5 cognitive memory types, 10 tools. | `v0.4.0` · 503 tests |
-| [Idea-Reality MCP](https://github.com/mnemox-ai/idea-reality-mcp) | Pre-build reality check — searches 5 real databases before you build | `v0.5.0` · 247 tests |
-| [AgentRelay](https://github.com/mnemox-ai/AgentRelay) | Turn idle AI quota into verified microtask output. Schema validation + reputation scoring + MCP. | `v0.6.0` · 394 tests |
+**[TradeMemory Protocol](https://github.com/mnemox-ai/tradememory-protocol)**\
+Memory layer for AI trading agents
+
+[![PyPI](https://img.shields.io/pypi/v/tradememory-protocol)](https://pypi.org/project/tradememory-protocol/) [![Tests](https://img.shields.io/badge/tests-1055-brightgreen)]() [![MIT](https://img.shields.io/badge/license-MIT-blue)]()
+
+15 MCP tools · Evolution Engine\
+5 cognitive memory types (OWM)\
+L1 trades → L2 patterns → L3 strategy
+
+</td>
+<td align="center" width="33%">
+
+**[Idea Reality MCP](https://github.com/mnemox-ai/idea-reality-mcp)**\
+Pre-build reality check for AI agents
+
+[![PyPI](https://img.shields.io/pypi/v/idea-reality-mcp)](https://pypi.org/project/idea-reality-mcp/) [![Stars](https://img.shields.io/github/stars/mnemox-ai/idea-reality-mcp)](https://github.com/mnemox-ai/idea-reality-mcp/stargazers) [![MIT](https://img.shields.io/badge/license-MIT-blue)]()
+
+290+ stars · Scans 6 sources\
+GitHub · HN · npm · PyPI · PH · SO\
+Reality signal score 0–100
+
+</td>
+<td align="center" width="33%">
+
+**[AgentRelay](https://github.com/mnemox-ai/AgentRelay)**\
+Verifiable microtask protocol
+
+[![Tests](https://img.shields.io/badge/tests-481-brightgreen)]() [![Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-blue)]()
+
+AI agents publish, claim & execute tasks\
+Schema validation + reputation scoring\
+7 MCP tools · Worker CLI
+
+</td>
+</tr>
+</table>
 
 ---
 
-### How It Works
-
-```
-L1 Raw Trades    →  Every trade recorded automatically
-L2 Patterns      →  AI discovers what works, what doesn't
-L3 Strategy      →  Memory becomes judgment
-OWM Recall       →  Cognitive science scores which memories matter most
-```
-
-Any AI agent. Any trading platform. One memory protocol.
-
----
-
-<sub>mnemox.ai · MIT License · Built in Taipei</sub>
+[mnemox.ai](https://mnemox.ai) · [PyPI](https://pypi.org/user/mnemox-ai/) · Built in Taipei
 
 </div>
